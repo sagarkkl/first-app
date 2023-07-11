@@ -1,0 +1,5 @@
+.list-css li{
+  border: 1px solid green;
+  padding: 5px;
+  margin: 1rem 0;
+}
